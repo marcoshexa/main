@@ -6,13 +6,13 @@ Contém todas as atividades desenvolvidas por __[Marcos Nascimento](https://www.
 
 ## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
-##### Bloco 1: [Unix, Bash e Shell Script](https://github.com/paulohbsimoes/trybe-exercises/tree/master/01-fundamentos/bloco-01-unix-bash-e-shell-script)
+##### Bloco 1: [Unix, Bash e Shell Script](https://github.com/marcoshexa/main/tree/main/fundamentos/bloco-01-unix-e-shell)
 - [x] 1.3 - Fundamentos do Desenvolvimento Web
 - [x] 1.3 - Introdução - Unix & Shell
 - [x] 1.3 - Unix & Bash - Parte 1
 - [x] 1.4 - Unix & Bash - Parte 2
 
-##### Bloco 2: [Git, GitHub e Internet](https://github.com/paulohbsimoes/trybe-exercises/tree/master/01-fundamentos/bloco-02-git-github-e-internet)
+##### Bloco 2: [Git, GitHub e Internet](https://github.com/marcoshexa/main/tree/main/fundamentos/bloco-02-git-github-e-internet)
 - [x] 2.1 - Git & GitHub  - O que é e para que serve
 - [x] 2.2 - Git & GitHub - Entendendo os comandos
 - [x] 2.3 - Internet - Entendendo como ela funciona
