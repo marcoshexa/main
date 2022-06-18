@@ -1,0 +1,15 @@
+Parte 2 - Criar conta no GitHub
+Crie sua conta no GitHub usando seu e-mail pessoal 🐙
+www.github.com
+Parte 3 - Adicionando uma chave SSH na sua conta do GitHub
+Parte 4 - O seu repositório no GitHub
+Parte 5 - Habilitando Two Factor Authentication no seu GitHub
+
+Recursos Adicionais (opcional)
+Livro oficial sobre Git
+Como conectar com o repositório no GitHub via SSH?
+Reforço sobre aprendizado do Git em um guia rápido
+Instalando o Git - Git Setup
+Configuração inicial - Git Config
+Adicionando chave SSH na conta do GitHub
+Do primeiro commit ao primeiro Push
