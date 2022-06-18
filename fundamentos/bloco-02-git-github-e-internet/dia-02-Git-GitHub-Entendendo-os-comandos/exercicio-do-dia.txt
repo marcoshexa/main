@@ -2,7 +2,7 @@ Criar uma nova branch, criar as pastas no bloco, dia e fazer o exercício.
 
 INICIO
 
-Entrar no diretório git: cd trybe-exercicios.
+Entrar no diretorio git: cd trybe-exercicios.
 verificar se está na branch main: git status
 verificar se a brant está atualizada com main: git pull origin main
 tudo dentro do esperado criar o novo repositório.
