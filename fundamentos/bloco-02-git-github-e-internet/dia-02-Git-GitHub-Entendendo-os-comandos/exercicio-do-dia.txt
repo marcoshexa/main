@@ -1,0 +1,47 @@
+Criar uma nova branch, criar as pastas no bloco, dia e fazer o exercício.
+
+INICIO
+
+Entrar no diretório git: cd trybe-exercicios.
+verificar se está na branch main: git status
+verificar se a brant está atualizada com main: git pull origin main
+tudo dentro do esperado criar o novo repositório.
+
+com o comando git init na raiz da pasta: trybe-exercicios: git init
+iremos criar na raiz da pasta o arquivo .git com toda engenharia capaz de prover todos as demandas
+para gerenciamento de repositório, com comandos e etc.
+
+Vamos a prática:
+
+Aqui comeca sua jornada:
+Cria a brant para comecar os exercicios:
+
+git checkout -b exercicios/3.1 (cria a brant e acessa a mesma)
+
+Cria a árvore de arquivos por bloco, dia, exercicios do dia
+:mkdir Criar uma nova pasta, entrar na pasta
+criar README.md: cat >> README.md
+criar arquivo de texto do exercicio. cat >> exercicio-do-dia.txt
+editá-lo, abrir no VsCode: no prompt digitar code ., irá abrir o IDE, 
+Feito os exercícios.
+
+verificar status das alterações e criações:
+git status
+
+constatadas alterações, temos que enviar esse arquivos para stage: git add .
+(para enviar todos ou o nome do arquivo)
+
+Fazemos uma imagem desse momento, comitando com uma menssagem o que foi feito: 
+git commit -m(mensagem) 
+
+para finalizar temos que enviar as modificações para o repositório github: 
+git push -u (upstream) origin(apelido da brant de origem) <nome da branch local>
+
+Tudo processado, temos que fazer o pull request para o e repositório: 
+ir até o github, verificar o botão pull request, 
+comparamos as mudancas, na caixa pop-up, verificamos a branch atualizada comparamos e mergeamos.
+
+Esses arquivos estãro diponíveis para serem verificados no Code Review.
+
+fim
+ 
